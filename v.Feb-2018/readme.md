@@ -1,6 +1,6 @@
 # Python Top 10 Articles for the Past Month (v.Feb 2018)
 
-<img src="feb-machine-learning.png" width="800" alt="Mybridge"></a>
+<img src="feb-python.png" width="800" alt="Mybridge"></a>
 
 For the past month, we ranked nearly 1,000 Python articles to pick the Top 10 stories that can help advance your career (1% chance).
  
