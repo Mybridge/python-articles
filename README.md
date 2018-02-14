@@ -10,7 +10,7 @@ Every month, about 1,000 ~ 1,500 articles, specific to Python programming, are c
 Also published on [Mybridge Publication](https://medium.mybridge.co)
 
 
-## Python Monthly Series:
+## Monthly Series:
 
 * [v.Feb 2018 - Top 10 Python Articles](v.Feb-2018)
 * v.Mar 2018 - Top 10 Python Learning Articles -- Coming Soon
