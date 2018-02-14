@@ -14,3 +14,8 @@ Monthly Series:
 
 * [v.Feb 2018 - Top 10 Python Articles](v.Feb-2018)
 * v.Mar 2018 - Top 10 Python Learning Articles -- Coming Soon
+
+<br>
+
+Other Monthly:
+* [Machine Learning Top 10 Articles](https://goo.gl/5HhQCB)
