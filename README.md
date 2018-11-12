@@ -21,6 +21,7 @@ Also published on [Mybridge Publication](https://medium.mybridge.co)
 * [v.Aug 2018 - Top 10 Python Articles](./src/08-2018.md)
 * [v.Sep 2018 - Top 10 Python Articles](./src/09-2018.md)
 * [v.Oct 2018 - Top 10 Python Articles](./src/10-2018.md)
+* [v.Nov 2018 - Top 10 Python Articles](./src/11-2018.md)
 
 <br>
 
